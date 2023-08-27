@@ -1,3 +1,4 @@
-console.log("Shudhanshu");
-console.log("Patel");
-console.log("Here");
+var a = 1;
+if(a === 1){
+    console.log("True")
+}
