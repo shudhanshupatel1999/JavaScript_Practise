@@ -45,3 +45,5 @@ const myCoding = [
 for (const key in myCoding) {
     console.log(`${myCoding[key].languageName}`, `${myCoding[key].languageFileName}`);
 }
+
+console.log();
