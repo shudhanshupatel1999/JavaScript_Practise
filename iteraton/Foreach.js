@@ -47,3 +47,4 @@ for (const key in myCoding) {
 }
 
 console.log();
+console.log();
