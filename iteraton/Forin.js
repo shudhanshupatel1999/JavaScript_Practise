@@ -1,15 +1,15 @@
 //Forin loop should only be used for the object iteraton
 
-// const myObject = {
-//     js: 'JavaScript',
-//     cpp: 'C++',
-//     rb: 'Ruby',
-//     swift: 'Swift by apple'
-// }
+const myObject = {
+    js: 'JavaScript',
+    cpp: 'C++',
+    rb: 'Ruby',
+    swift: 'Swift by apple'
+}
 
-// for (const key in myObject) {
-//     console.log(`${key} shortcut is for ${myObject[key]}`);
-// }
+for (const key in myObject) {
+    console.log(`${key} shortcut is for ${myObject[key]}`);
+}
 
 // const programmig = ["js", "rb", "py", "cpp"];
 
