@@ -1,0 +1,3 @@
+Forin = Array, object. Not work with map
+Forof = Maps, Array. not work with object
+Foreach = Array, Object Maps

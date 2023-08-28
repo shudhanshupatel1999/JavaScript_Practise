@@ -1,4 +1,4 @@
-// //for of
+// //for of is only loop work with maps very good
 
 // const arr = [1, 2, 3, 4, 5];
 
